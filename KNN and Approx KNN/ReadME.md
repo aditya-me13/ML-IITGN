@@ -18,8 +18,8 @@ Now, in a 2d randomly generated dataset visually show how many of the $K$ closes
 Also show the partitions in the 2d space. (0.5 marks)
 
 ## Contributore: 
-1) Aditya Mehta [Github](https://github.com/aditya-me13)
-2) Mumuksh Jain [Github](https://github.com/mumukshjain)
+1) Aditya Mehta : [Github](https://github.com/aditya-me13)
+2) Mumuksh Jain : [Github](https://github.com/mumukshjain)
 
 ## Special Thanks to:
 1) Guntas Saran : [Github](https://github.com/guntas-13)
